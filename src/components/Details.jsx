@@ -10,7 +10,7 @@ import { FaArrowRight } from "react-icons/fa";
 function Details() {
   return (
     <div>
-      <h1 className='ml-[100px] mt-2 mb-3 font-gilroy_medium'>Home/Flats/Description</h1>
+      <h1 className='ml-[100px] mt-2 mb-3 font-gilroy_medium'>home/Flats/Description</h1>
       
       <div className='h-[450px] ml-[100px] mr-[100px] border rounded-lg flex p-4 gap-4'>
         <div className='w-3/5 h-full  border border-gray-400 rounded-lg bg-[url("https://d2blna3sxzw742.cloudfront.net/Property-Photos/46-Thumbnail_1.jpg")] bg-center bg-cover'></div>
