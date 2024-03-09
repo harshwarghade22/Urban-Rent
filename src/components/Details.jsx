@@ -30,7 +30,7 @@ function Details() {
                 </div>
                 <div className='w-[50px] h-[50px] border border-black rounded-full bg-[url("https://images.unsplash.com/photo-1602233158242-3ba0ac4d2167?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg")] bg-center bg-cover'></div>
                 <div className='w-[50px] h-[50px] border border-black rounded-full bg-gray-800'>
-                  <p className='flex justify-center py-3 text-xl font-gilroy_light text-white'>VAC</p>
+                  <p className='flex justify-center py-3 text-xl font-gilroy_light text-white'>vac</p>
                 </div>
               </div>
               
